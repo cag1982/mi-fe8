@@ -21,7 +21,7 @@ const Icons = (IconModule as unknown) as { [key: string]: React.FC<SvgProps> };
 const Container = styled.div`
   flex: none;
   padding: 8px 4px;
-  background-color: #F3C802;
+  background-color: #FAF374;
   border-top: solid 2px rgba(133, 133, 133, 0.1);
 `;
 
